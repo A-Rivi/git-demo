@@ -1,0 +1,10 @@
+红色，untracked未add
+add
+绿色，staged已经add控制暂未commit
+commit
+白色，Unmodified 已add，已commit，无modify
+"edit"
+蓝色，Modified 已add，已commit，有modify
+
+
+灰色：.git ignore版本控制已忽略文件。
